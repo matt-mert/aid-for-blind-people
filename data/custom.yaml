@@ -1,0 +1,9 @@
+train: aid-for-blind-people/train
+valid: aid-for-blind-people/valid
+test: aid-for-blind-people/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['cross']
